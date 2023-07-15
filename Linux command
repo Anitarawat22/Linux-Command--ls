@@ -1,0 +1,16 @@
+
+LINUX COMMAND -LS
+
+
+1. ls -l :-FOR  LONG LISTENING 
+2. ls -lt  :-shows the newest file come at the top.
+3. ls -ltr :-shows the newest file at the bottom.
+4. ls -l :- give the ascending  order based on dictionary.
+5. ls -lr :- give descending order based on dictonary.
+6. ls -LR :- recursively print all the directoires also
+7. cal gives you the date of the calender
+8. ls -a shows all the hidden files.
+9.-LatR  : L is giving you the long listing
+           a is giving you the hidden files 
+           t is give you the newest file at the top
+           R recursively print all the files
